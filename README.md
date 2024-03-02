@@ -2,6 +2,4 @@
 
 ### enjoy your stay
 
-<p>(cool cs clip from unner)</p>
-
-<img alt="clip" src="clip.gif"> </img>
+<img alt="clip" src="clip.gif"></img>
