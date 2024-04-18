@@ -3,7 +3,7 @@
 <li>
 I am a first year Computer Science student at Carleton University in the Game Development stream.
 <li>
-I have beginner qualifications in 💻Linux💻 and 👨‍🦯Cisco Packet Tracer👨‍🦯.
+I have qualifications in 💻Linux💻 and 👨‍🦯Cisco Packet Tracer👨‍🦯.
 <li>
 My hobbies are programming, video/photo editing, skating, volleyball, and gaming with friends.
 
