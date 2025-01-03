@@ -1,6 +1,6 @@
 # welcome to aidanln
 
-### shoutout alina shaikhet, pat morin, kyle harvey, zander and the gang
+### shoutout alina shaikhet, kyle harvey, jonny, zander, and the gang
 <p>
   <a href="https://raid.report/pc/4611686018501676965">rr</a>
   &nbsp; &nbsp;
