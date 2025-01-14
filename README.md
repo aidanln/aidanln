@@ -1,7 +1,7 @@
 <h1>Welcome to my Profile!</h1>
 
 <li>
-I am a first year Computer Science student at Carleton University in the Game Development stream.
+I am a second year Computer Science student at Carleton University in the Game Development stream.
 <li>
 I have beginner qualifications in 💻Linux💻 and 👨‍🦯Cisco Packet Tracer👨‍🦯.
 <li>
