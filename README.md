@@ -6,5 +6,4 @@ i am a jobless chud
 <a href="https://www.youtube.com/@spycat_">youtube</a>
 <a href="https://steamcommunity.com/id/spycat_/">steam</a>
 
-<p>k thx</p>
 <img alt="clip" src="clip.gif"></img>
