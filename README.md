@@ -1,6 +1,4 @@
-# welcome to the aidanln
-
-i am a jobless chud
+# welcome to aidanln
 
 <a href="https://raid.report/pc/4611686018501676965">raid report</a>
 <a href="https://www.youtube.com/@spycat_">youtube</a>
